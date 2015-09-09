@@ -1,0 +1,41 @@
+{
+  "room": "Team NMS Plug.dj",
+  "author": "Jhopper",
+  "icon": null,
+  "css": "https://nightbloo.github.io/main.css",
+  "rules": {
+    "allowAutorespond": false,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
+    "allowShowingMehs": false,
+    "forceSmartVote": false
+  },
+  "ccc": {
+    "admin": null,
+    "ambassador": null,
+    "host": "#2B0040",
+    "cohost": "#56007F",
+    "manager": "#8200BF",
+    "bouncer": "#9B00E5",
+    "rdj": "#AD00FF",
+    "subscriber": null,
+    "friend": null,
+    "user": null
+  },
+  "images": {
+    "background": "https://nightbloo.github.io/background/nb3DJ5.png",
+    "playback": "https://nightbloo.github.io/background/nb3DJvideo.png",
+    "admin": null,
+    "ambassador": null,
+    "host": "https://nightbloo.github.io/icons/hostpink.png",
+    "cohost": "https://nightbloo.github.io/icons/hostrose.png",
+    "manager": "https://nightbloo.github.io/icons/manager.png",
+    "bouncer": "https://nightbloo.github.io/icons/bouncer.png",
+    "rdj": "https://nightbloo.github.io/icons/rdj.png",
+    "subscriber": null,
+    "other": null
+  }
+}
