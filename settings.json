@@ -2,7 +2,7 @@
   "room": "Team NMS Plug.dj",
   "author": "Jhopper",
   "icon": null,
-  "css": "https://nightbloo.github.io/main.css",
+  "css": null,
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
