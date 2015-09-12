@@ -1,8 +1,8 @@
 /* Custom Badges */
 /* Rose */
-.id-5713188 > .badge-box > i.bdg
+.id-4603888 > .badge-box > i.bdg
 {
-    background-image:    url("https://nightbloo.github.io/custom-badges/rosebouncy.gif");
+    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/jhopper.gif");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -200,7 +200,7 @@
 
 /* Custom Icons */
 /* Rose */
-.id-5713188 > .msg > .from > i.icon-chat-subscriber
+.id-4603888 > .msg > .from > i.icon-chat-subscriber
 {
     background: url("https://nightbloo.github.io/icons/subrose.png") !important;
 }
