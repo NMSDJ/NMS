@@ -18,7 +18,7 @@
 }
 
 /* ezirP */
-.id- PUT ID HERE > .badge-box > i.bdg
+.id-4839026 > .badge-box > i.bdg
 {
     background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/ezirp.gif");
     background-size:     cover;
@@ -45,7 +45,7 @@
 }
 
 /* ezirP */
-.id- PUT ID HERE > .badge-box > i.bdg
+.id-4839026 > .badge-box > i.bdg
 {
     background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/ezirp.gif");
     background-size:     cover;
@@ -142,24 +142,24 @@
 
 
 /* ezirP */
-.id- PUT HERE:hover span.un.clickable
+.id-4839026:hover span.un.clickable
 {
     transform:  rotate3d(7, 20, 9, 360deg);
     transition: all 3s cubic-bezier(0.31, 0, 0.11, 1);
 }
 
-.id- PUT HERE span.un.clickable
+.id-4839026 span.un.clickable
 {
     transition: all 1s linear;
 }
 
-.id- PUT HERE:hover > .msg > .from > i.icon-chat-manager
+.id-4839026:hover > .msg > .from > i.icon-chat-manager
 {
     transform:  rotateZ(180deg);
     transition: all 1s linear;
 }
 
-.id- PUT HERE > .msg > .from > i.icon-chat-manager
+.id-4839026 > .msg > .from > i.icon-chat-manager
 {
     transition: all 1s linear;
 }
