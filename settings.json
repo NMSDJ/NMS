@@ -30,11 +30,11 @@
     "playback": "https://raw.githubusercontent.com/NMSDJ/NMS/master/Playback.png",
     "admin": null,
     "ambassador": null,
-    "host": "https://nightbloo.github.io/icons/hostpink.png",
-    "cohost": "https://nightbloo.github.io/icons/hostrose.png",
-    "manager": "https://nightbloo.github.io/icons/manager.png",
-    "bouncer": "https://nightbloo.github.io/icons/bouncer.png",
-    "rdj": "https://nightbloo.github.io/icons/rdj.png",
+    "host": "https://raw.githubusercontent.com/NMSDJ/NMS/aec186c51f484a71bb6e7e0bcfb9872276e6018f/host.png",
+    "cohost": "https://raw.githubusercontent.com/NMSDJ/NMS/aec186c51f484a71bb6e7e0bcfb9872276e6018f/cohost.png",
+    "manager": "https://github.com/NMSDJ/NMS/raw/aec186c51f484a71bb6e7e0bcfb9872276e6018f/manager.png",
+    "bouncer": "https://raw.githubusercontent.com/NMSDJ/NMS/aec186c51f484a71bb6e7e0bcfb9872276e6018f/bouncer.png",
+    "rdj": "https://raw.githubusercontent.com/NMSDJ/NMS/aec186c51f484a71bb6e7e0bcfb9872276e6018f/nms.png",
     "subscriber": null,
     "other": null
   }
