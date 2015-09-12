@@ -274,7 +274,7 @@
 /* Grab, woot, meh buttons */
 #woot i.icon
 {
-    background-image:    url("https://nightbloo.github.io/icons/woot.png");
+    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/woot.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -282,7 +282,7 @@
 
 #grab i.icon
 {
-    background-image:    url("https://nightbloo.github.io/icons/grab.png");
+    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/grab.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -290,7 +290,7 @@
 
 #meh i.icon
 {
-    background-image:    url("https://nightbloo.github.io/icons/meh.png");
+    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/meh.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
