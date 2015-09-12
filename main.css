@@ -1,8 +1,8 @@
 /* Custom Badges */
-/* S8npls */
-.id-4603888 > .badge-box > i.bdg
+/* Rose */
+.id-5713188 > .badge-box > i.bdg
 {
-    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/jhopper.gif");
+    background-image:    url("https://nightbloo.github.io/custom-badges/rosebouncy.gif");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -199,8 +199,8 @@
 }
 
 /* Custom Icons */
-/* S8npls */
-.id-4603888 > .msg > .from > i.icon-chat-subscriber
+/* Rose */
+.id-5713188 > .msg > .from > i.icon-chat-subscriber
 {
     background: url("https://nightbloo.github.io/icons/subrose.png") !important;
 }
@@ -274,7 +274,7 @@
 /* Grab, woot, meh buttons */
 #woot i.icon
 {
-    background-image:    url("http://i.imgur.com/DTB1dnj.png");
+    background-image:    url("https://nightbloo.github.io/icons/woot.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -282,7 +282,7 @@
 
 #grab i.icon
 {
-    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/grab.png");
+    background-image:    url("https://nightbloo.github.io/icons/grab.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
@@ -290,7 +290,7 @@
 
 #meh i.icon
 {
-    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/meh.png");
+    background-image:    url("https://nightbloo.github.io/icons/meh.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
