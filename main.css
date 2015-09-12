@@ -1,31 +1,4 @@
 /* Custom Badges */
-/* s8npls */
-.id-4603888 > .badge-box > i.bdg
-{
-    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/jhopper.gif");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
-}
-
-/* TurqqV */
-.id-4809894 > .badge-box > i.bdg
-{
-    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/turqq.gif");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
-}
-
-/* ezirP */
-.id-4839026 > .badge-box > i.bdg
-{
-    background-image:    url("https://raw.githubusercontent.com/NMSDJ/NMS/master/ezirp.gif");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
-}
-
 /* Rose */
 .id-5713188 > .badge-box > i.bdg
 {
@@ -368,75 +341,6 @@
 }
 
 .id-5502961 > .msg > .from > i.icon-chat-manager
-{
-    transition: all 1s linear;
-}
-
-/* s8npls */
-.id-4603888:hover span.un.clickable
-{
-    transform:  rotate3d(7, 20, 9, 360deg);
-    transition: all 3s cubic-bezier(0.31, 0, 0.11, 1);
-}
-
-.id-4603888 span.un.clickable
-{
-    transition: all 1s linear;
-}
-
-.id-4603888:hover > .msg > .from > i.icon-chat-manager
-{
-    transform:  rotateZ(180deg);
-    transition: all 1s linear;
-}
-
-.id-4603888 > .msg > .from > i.icon-chat-manager
-{
-    transition: all 1s linear;
-}
-
-/* TurqqV */
-.id-4809894:hover span.un.clickable
-{
-    transform:  rotate3d(7, 20, 9, 360deg);
-    transition: all 3s cubic-bezier(0.31, 0, 0.11, 1);
-}
-
-.id-4809894 span.un.clickable
-{
-    transition: all 1s linear;
-}
-
-.id-4809894:hover > .msg > .from > i.icon-chat-manager
-{
-    transform:  rotateZ(180deg);
-    transition: all 1s linear;
-}
-
-.id-4809894 > .msg > .from > i.icon-chat-manager
-{
-    transition: all 1s linear;
-}
-
-/* ezirP */
-.id-4839026:hover span.un.clickable
-{
-    transform:  rotate3d(7, 20, 9, 360deg);
-    transition: all 3s cubic-bezier(0.31, 0, 0.11, 1);
-}
-
-.id-4839026 span.un.clickable
-{
-    transition: all 1s linear;
-}
-
-.id-4839026:hover > .msg > .from > i.icon-chat-manager
-{
-    transform:  rotateZ(180deg);
-    transition: all 1s linear;
-}
-
-.id-4839026 > .msg > .from > i.icon-chat-manager
 {
     transition: all 1s linear;
 }
