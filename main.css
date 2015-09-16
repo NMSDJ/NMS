@@ -1,8 +1,11 @@
 /*Jhopper*/
+#chat .id-4125777 .badge-box i.bdg {
+    background : url(https://raw.githubusercontent.com/NMSDJ/NMS/master/jhopper.gif);
+}
+
 #chat-message .id-4125777 .badge-box i.bdg {
     background-image: url(https://raw.githubusercontent.com/NMSDJ/NMS/master/jhopper.gif);
     background-size: cover;
-	
 }
 /* Grab, woot, meh buttons */
 #woot i.icon
