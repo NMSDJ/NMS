@@ -2,7 +2,7 @@
   "room": "Team NMS Plug.dj",
   "author": "Jhopper",
   "icon": null,
-  "css": "https://raw.githubusercontent.com/NMSDJ/NMS/master/main.css",
+  "css": "http://raw.githubusercontent.com/NMSDJ/NMS/master/main.css",
   "rules": {
     "allowAutorespond": false,
     "allowAutowoot": true,
